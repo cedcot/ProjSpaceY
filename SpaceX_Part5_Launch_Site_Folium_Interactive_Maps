@@ -1,0 +1,3 @@
+Please use the url below to visualize interactive maps with Folium as jupyter Notebook doesn't allow Folium full functionalities 
+Copy paste url in your browser:
+url = https://nbviewer.org/github/cedcot/ProjSpaceY/blob/main/SpaceX_Part5_Launch_Site_Folium%20Interactive%20maps.ipynb
